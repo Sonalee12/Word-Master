@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Word-Master/static/css/main.59f0975b.chunk.css",
+    "main.js": "/Word-Master/static/js/main.895b86c9.chunk.js",
+    "main.js.map": "/Word-Master/static/js/main.895b86c9.chunk.js.map",
+    "runtime~main.js": "/Word-Master/static/js/runtime~main.c7c2d600.js",
+    "runtime~main.js.map": "/Word-Master/static/js/runtime~main.c7c2d600.js.map",
+    "static/js/2.631a136b.chunk.js": "/Word-Master/static/js/2.631a136b.chunk.js",
+    "static/js/2.631a136b.chunk.js.map": "/Word-Master/static/js/2.631a136b.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/Word-Master/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/Word-Master/static/js/3.68d536b4.chunk.js.map",
+    "index.html": "/Word-Master/index.html",
+    "precache-manifest.1c9f7faf0ab49212c84dd1881a1be0a6.js": "/Word-Master/precache-manifest.1c9f7faf0ab49212c84dd1881a1be0a6.js",
+    "service-worker.js": "/Word-Master/service-worker.js",
+    "static/css/main.59f0975b.chunk.css.map": "/Word-Master/static/css/main.59f0975b.chunk.css.map"
+  }
+}
